@@ -1,0 +1,66 @@
+body{
+    margin:0px;
+    padding: 0px;
+    background-color:cadetblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.main-container{
+    margin-left:20%;
+    margin-top:3%;
+    width: 600px;
+    background-color: rgba(0, 0, 0, 0.623);
+    padding: 15px 72px;
+    align-items: center;
+    border-radius: 30px;
+    box-shadow: 3px 7px 3px 7px grey;
+}
+.main-container h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main-container textarea{
+    width: 600px;
+    height: 400px;
+    padding-left: 26px;
+    background-color: azure;
+    font-size: 16px;
+    font-family:cursive;
+    font-weight: 500;
+    border: 3px solid black;
+    border-radius: 29px;
+}
+
+.inner-container
+{
+    display: flex;
+    margin-left: 30px;
+    /* margin-right: 50px; */
+    padding: 20px 20px;
+}
+.file-name{
+    margin-right: 50px;
+}
+.file-name input{
+    border-radius: 10px;
+    width: 150px;
+    height: 30px;
+}
+.file-type select
+{
+    width: 130px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+
+button{
+    margin-left: 45%;
+    padding: 15px 15px;
+    background-color: cadetblue;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
