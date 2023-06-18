@@ -6,10 +6,15 @@ There are many free tools available online that allow you to convert one file ty
 This project converts the given text into various formats including:
 
 1 text  (.txt)
+
 2 PDF (.pdf)
+
 3 HTML (.html)
+
 4 Java Script (.js)
+
 5 Document (.doc)
+
 6 Presentation (.ppt)
 
 After Conversion users can type the file name and download to preserve it for future purposes.
